@@ -1,5 +1,3 @@
-# HorizonTechX_Student Grade Tracker
-
 import java.util.Scanner;
 
 class Marks
